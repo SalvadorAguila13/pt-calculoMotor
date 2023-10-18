@@ -70,5 +70,5 @@ const calculoMotor = (tipoNomina, fechaPrimerEmpleo, genero) => {
     console.log(calculoMotor('A', new Date('2022-06-12'), 'f'));
     console.log(calculoMotor('B', new Date('1993-12-30'), 'f'));
     console.log(calculoMotor('C', new Date('2020-09-19'), 'm'));
-    console.log(calculoMotor('D', new Date('2015-01-15'), 'm'));
+    console.log(calculoMotor('D', new Date('2019-01-15'), 'm'));
     
